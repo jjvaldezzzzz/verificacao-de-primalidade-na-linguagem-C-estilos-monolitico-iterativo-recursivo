@@ -1,12 +1,10 @@
 # AV1 - Teoria da Computabilidade: Programas, Máquinas e Equivalência
 
-Repositório destinado à entrega do Trabalho de Implementação AV1 da disciplina de **Teoria da Computabilidade** do Centro Universitário do Estado do Pará (CESUPA).
+Repositório destinado à entrega do Trabalho de Implementação AV1 da disciplina de **Teoria da Computabilidade** do CESUPA.
 
 **Professor:** Daniel Leal Souza
 
-**Semestre:** 01/2026
-
-## 👥 Equipa
+## 👥 Equipe
 
 * José Joaquim Valdez
 * Jorge Lobato
